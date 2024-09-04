@@ -1,6 +1,6 @@
 //
 //  ContentView.swift
-//  TODOListWatchAndTV
+//  TodoWatch Watch App
 //
 //  Created by Никита Гуляев on 03.09.2024.
 //
